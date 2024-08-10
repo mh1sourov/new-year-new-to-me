@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+}
+
+header{
+    background-image: url("../images/banner/banner3.png");
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1200px;
+}
+
+.nav-text-container{
+    color: rgb(255, 255, 255);
+    text-align: right;
+    padding-right: 150px;
+    padding-top: 28%;
+
+}
+
+.btn-primary{
+    width: 160px;
+    height: 60px;
+    color: rgb(86, 187, 245);
+    background-color: azure;
+    padding: 5px;
+    border-radius: 2px;
+    border: none;
+    margin-top: 20px;
+}
+
+.past-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 200px;
+}
+
+.past-content{
+    padding-left: 180px;
+}
+
+.past-content-title{
+color: rgb(21, 20, 20);
+font-family: Work Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 47px;
+letter-spacing: 0%;
+text-align: left;
+}
