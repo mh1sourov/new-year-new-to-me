@@ -49,3 +49,13 @@ line-height: 47px;
 letter-spacing: 0%;
 text-align: left;
 }
+
+.plan-container{
+    margin: 10px 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.plan-box{
+    text-align: center;
+}
