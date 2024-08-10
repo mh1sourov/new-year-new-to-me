@@ -51,7 +51,7 @@ text-align: left;
 }
 
 .plan-container{
-    margin: 10px 100px;
+    
     display: flex;
     justify-content: space-evenly;
 }
@@ -59,3 +59,40 @@ text-align: left;
 .plan-box{
     text-align: center;
 }
+.adver-sec{
+    background-image: url("../images/watch.png");
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-image: linear-gradient(to bottom right, url("../images/gradient3.png"));
+   
+   /* Rectangle 4 */
+/* position: absolute; */
+width: 1140px;
+height: 300px;
+margin-left: 200px;
+margin-top: 30px;
+
+}
+
+#call-now-btn{
+    margin-top: 100px;
+    margin-left: 60px;
+}
+
+.postivemind-title{
+
+    color: rgb(255, 255, 255);
+    font-family: Work Sans;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 47px;
+    letter-spacing: 0%;
+
+    margin-top: 100px;
+    margin-left: 60px;
+
+}
+
+
+
+ 
